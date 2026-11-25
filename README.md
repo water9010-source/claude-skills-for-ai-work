@@ -10,16 +10,16 @@ Not tested on every AI tool. 並非所有 AI 工具都測過；主要在 Claude 
 
 | Skill | What it does | Agensi (text) | Gumroad (full) |
 |---|---|---|---|
-| AI Work Acceptance ($9) = text version of Governance System Pro | Check AI-made work against criteria and evidence before you accept it | [link](https://www.agensi.io/skills/ai-work-acceptance) | - |
-| Session Handoff 對話接續交接 | Long chat getting expensive? Write a short handoff file and continue in a new window | [link](https://www.agensi.io/skills/session-handoff-2) | [link](https://aquaquest23.gumroad.com/l/ncrbbh) |
-| Done Criteria 工作完成標準產生器 | Turn a one-line request into checkable done-criteria, confirm, then start | [link](https://www.agensi.io/skills/done-criteria-claude-skill) | [link](https://aquaquest23.gumroad.com/l/ojzbzb) |
-| Plain Report 給 AI 的白話回報規則 | Result first, plain words, done / not done / your decision kept apart | [link](https://www.agensi.io/skills/ai-plain-report-claude-skill) | [link](https://aquaquest23.gumroad.com/l/zmrhxq) |
-| Clear Brief 交辦單寫法 | Four rules for handing work to another AI without being misread | [link](https://www.agensi.io/skills/clear-brief-claude-skill) | [link](https://aquaquest23.gumroad.com/l/eucgh) |
-| Fix Only What Was Named 退回重做只改點名的地方 | When work is sent back, change only what was named | [link](https://www.agensi.io/skills/fix-only-what-was-named-claude-skill) | [link](https://aquaquest23.gumroad.com/l/hpdxlr) |
-| Pre-submit Check 交件前自我檢查清單 | A short self-check before the AI hands work in | [link](https://www.agensi.io/skills/pre-submit-check-claude-skill) | [link](https://aquaquest23.gumroad.com/l/fzhmpn) |
-| Numbers From Files 數字一定要從檔案算 | Compute every number from the source file and cite it | [link](https://www.agensi.io/skills/numbers-from-files-claude-skill) | [link](https://aquaquest23.gumroad.com/l/yebkk) |
-| Lesson Card 失敗教訓記錄卡 | Write a short card after a failure; read related cards before similar work | [link](https://www.agensi.io/skills/lesson-card-claude-skill) | [link](https://aquaquest23.gumroad.com/l/fhwnqjr) |
-| Model Optimizer 最佳化模型 | Pick a suitable Claude model for each subagent instead of always the most expensive | [link](https://www.agensi.io/skills/model-optimizer-claude-skill) | [link](https://aquaquest23.gumroad.com/l/yluejk) |
+| AI Work Acceptance ($9) = text version of Governance System Pro | Check AI-made work against criteria and evidence before you accept it | [link](https://www.agensi.io/r/WEILI1?to=/skills/ai-work-acceptance&utm_source=github) | - |
+| Session Handoff 對話接續交接 | Long chat getting expensive? Write a short handoff file and continue in a new window | [link](https://www.agensi.io/r/WEILI1?to=/skills/session-handoff-2&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/ncrbbh) |
+| Done Criteria 工作完成標準產生器 | Turn a one-line request into checkable done-criteria, confirm, then start | [link](https://www.agensi.io/r/WEILI1?to=/skills/done-criteria-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/ojzbzb) |
+| Plain Report 給 AI 的白話回報規則 | Result first, plain words, done / not done / your decision kept apart | [link](https://www.agensi.io/r/WEILI1?to=/skills/ai-plain-report-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/zmrhxq) |
+| Clear Brief 交辦單寫法 | Four rules for handing work to another AI without being misread | [link](https://www.agensi.io/r/WEILI1?to=/skills/clear-brief-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/eucgh) |
+| Fix Only What Was Named 退回重做只改點名的地方 | When work is sent back, change only what was named | [link](https://www.agensi.io/r/WEILI1?to=/skills/fix-only-what-was-named-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/hpdxlr) |
+| Pre-submit Check 交件前自我檢查清單 | A short self-check before the AI hands work in | [link](https://www.agensi.io/r/WEILI1?to=/skills/pre-submit-check-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/fzhmpn) |
+| Numbers From Files 數字一定要從檔案算 | Compute every number from the source file and cite it | [link](https://www.agensi.io/r/WEILI1?to=/skills/numbers-from-files-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/yebkk) |
+| Lesson Card 失敗教訓記錄卡 | Write a short card after a failure; read related cards before similar work | [link](https://www.agensi.io/r/WEILI1?to=/skills/lesson-card-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/fhwnqjr) |
+| Model Optimizer 最佳化模型 | Pick a suitable Claude model for each subagent instead of always the most expensive | [link](https://www.agensi.io/r/WEILI1?to=/skills/model-optimizer-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/yluejk) |
 
 ## Where to start 從哪裡開始
 
