@@ -21,6 +21,22 @@ Not tested on every AI tool. 並非所有 AI 工具都測過；主要在 Claude 
 | Lesson Card 失敗教訓記錄卡 | Write a short card after a failure; read related cards before similar work | [link](https://www.agensi.io/r/WEILI1?to=/skills/lesson-card-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/fhwnqjr) |
 | Model Optimizer 最佳化模型 | Pick a suitable Claude model for each subagent instead of always the most expensive | [link](https://www.agensi.io/r/WEILI1?to=/skills/model-optimizer-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/yluejk) |
 
+## Gumroad full version contents Gumroad 完整版內容
+
+Gumroad 上每個 Skill 都是完整版（3 美元），壓縮檔內容如下；Agensi 是文字版（只有 SKILL.md 與 LICENSE.txt）。
+
+| Skill | 完整版壓縮檔內容 |
+|---|---|
+| 對話接續交接 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md、scripts/new_handoff.py |
+| 最佳化模型 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md |
+| 交辦單寫法 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md |
+| 退回重做只改點名的地方 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md |
+| 交件前自我檢查清單 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md、scripts/checklist.py |
+| 工作完成標準產生器 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md |
+| 失敗教訓記錄卡 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md |
+| 數字一定要從檔案算 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md、scripts/count.py |
+| 給 AI 的白話回報規則 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md |
+
 ## Where to start 從哪裡開始
 
 1. **Session Handoff** - if your chats get long and token costs climb.
