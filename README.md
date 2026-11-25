@@ -27,3 +27,8 @@ Not tested on every AI tool. 並非所有 AI 工具都測過；主要在 Claude 
 ## Search keywords
 
 claude skill, SKILL.md, AI agent skill, claude code skill, AI handoff, subagent model choice, token saving, 繁體中文 AI 技能, 交辦單, 白話回報
+## Full version 完整版
+
+Governance System Pro 治理系統 Pro ($49) - a Windows local tool: seven-step workflow, data sorting, lessons carried forward. Needs your own compatible AI setup. 七步流程、資料分類、知識傳承；Windows 本機工具，需自備相容 AI 環境。
+
+[Gumroad](https://aquaquest23.gumroad.com/l/governance-pro)
