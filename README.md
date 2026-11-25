@@ -43,7 +43,7 @@ Gumroad 上每個 Skill 都是完整版（3 美元），壓縮檔內容如下；
 2. **Done Criteria** - agree on "done" before the AI starts.
 3. **Plain Report** - if AI replies are hard to read.
 
-## Full version 完整版
+## Governance System Pro full version 治理系統 Pro 完整版（49 美元）
 
 Governance System Pro 治理系統 Pro ($49) - a Windows local tool: seven-step workflow, data sorting, lessons carried forward. Needs your own compatible AI setup. 七步流程、資料分類、知識傳承；Windows 本機工具，需自備相容 AI 環境。
 
