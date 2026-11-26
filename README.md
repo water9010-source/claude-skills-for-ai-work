@@ -1,6 +1,6 @@
 # Claude Skills for everyday AI work
 
-14 small Claude Skills (plain `SKILL.md` instruction files) for checking, handing off and reporting AI work. Each one is a short set of instructions your AI agent follows. 每個都是一份給 AI 看的短說明檔（SKILL.md）。
+15 small Claude Skills (plain `SKILL.md` instruction files) for checking, handing off and reporting AI work. Each one is a short set of instructions your AI agent follows. 每個都是一份給 AI 看的短說明檔（SKILL.md）。
 
 **Agensi = text version. Gumroad = full version.** Agensi 上架的是文字版本；Gumroad 上架的是完整版本。
 
@@ -24,6 +24,7 @@ Not tested on every AI tool. 並非所有 AI 工具都測過；主要在 Claude 
 | Shop Page Checkup 商品頁數據健檢 | Read views, traffic sources and sales to tell "not seen" from "seen but not bought" | [link](https://www.agensi.io/r/WEILI1?to=/skills/shop-page-checkup-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/qsrlbn) |
 | Small Steps 工作拆小步 | Split big work into small checkable steps; show the list once, check each step before the next | [link](https://www.agensi.io/r/WEILI1?to=/skills/small-steps-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/kaxnjz) |
 | Order System 點餐系統 | Set up table QR ordering for one shop on your own Cloudflare account, Windows PC and receipt printer | - | [link](https://aquaquest23.gumroad.com/l/rdypgtt) |
+| Welfare Guide 補助導航 | Free (免費). Like a social worker, help people in Taiwan find subsidies and welfare they may apply for; checks amounts on official sites. Also on GitHub: [welfare-guide](https://github.com/water9010-source/welfare-guide) | - | [link](https://aquaquest23.gumroad.com/l/snlrnz) |
 
 ## Gumroad full version contents Gumroad 完整版內容
 
@@ -44,6 +45,7 @@ Gumroad 上每個 Skill 都是完整版，壓縮檔內容如下；Agensi 是文�
 | 商品頁數據健檢 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md |
 | 工作拆小步 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md、範例清單.md、scripts/checklist.py |
 | 點餐系統 | SKILL.md、LICENSE.txt、使用說明.md、買家架設說明.md、排錯說明.md、交付範圍與驗證狀態.md、驗證紀錄.md、template/、system/ |
+| 補助導航 | SKILL.md、LICENSE.txt、使用說明.md、資源總表.md、文件檢核表.md、說法範本.md、案例.md、驗證紀錄.md |
 
 ## Where to start 從哪裡開始
 
