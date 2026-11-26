@@ -20,6 +20,10 @@ Not tested on every AI tool. 並非所有 AI 工具都測過；主要在 Claude 
 | Numbers From Files 數字一定要從檔案算 | Compute every number from the source file and cite it | [link](https://www.agensi.io/r/WEILI1?to=/skills/numbers-from-files-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/yebkk) |
 | Lesson Card 失敗教訓記錄卡 | Write a short card after a failure; read related cards before similar work | [link](https://www.agensi.io/r/WEILI1?to=/skills/lesson-card-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/fhwnqjr) |
 | Model Optimizer 最佳化模型 | Pick a suitable Claude model for each subagent instead of always the most expensive | [link](https://www.agensi.io/r/WEILI1?to=/skills/model-optimizer-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/yluejk) |
+| One Post, Many Platforms 社群發文一稿多用 | Rewrite one post into versions for Facebook, Threads, X, LinkedIn and Reddit; read group rules first | [link](https://www.agensi.io/r/WEILI1?to=/skills/one-post-many-platforms-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/pzbuve) |
+| Shop Page Checkup 商品頁數據健檢 | Read views, traffic sources and sales to tell "not seen" from "seen but not bought" | [link](https://www.agensi.io/r/WEILI1?to=/skills/shop-page-checkup-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/qsrlbn) |
+| Small Steps 工作拆小步 | Split big work into small checkable steps; show the list once, check each step before the next | [link](https://www.agensi.io/r/WEILI1?to=/skills/small-steps-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/kaxnjz) |
+| Order System 點餐系統 | Set up table QR ordering for one shop on your own Cloudflare account, Windows PC and receipt printer | - | [link](https://aquaquest23.gumroad.com/l/rdypgtt) |
 
 ## Gumroad full version contents Gumroad 完整版內容
 
@@ -36,6 +40,10 @@ Gumroad 上每個 Skill 都是完整版，壓縮檔內容如下；Agensi 是文�
 | 失敗教訓記錄卡 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md |
 | 數字一定要從檔案算 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md、scripts/count.py |
 | 給 AI 的白話回報規則 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md |
+| 社群發文一稿多用 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md |
+| 商品頁數據健檢 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md |
+| 工作拆小步 | SKILL.md、LICENSE.txt、使用說明.md、驗證紀錄.md、範例清單.md、scripts/checklist.py |
+| 點餐系統 | SKILL.md、LICENSE.txt、使用說明.md、買家架設說明.md、排錯說明.md、交付範圍與驗證狀態.md、驗證紀錄.md、template/、system/ |
 
 ## Where to start 從哪裡開始
 
