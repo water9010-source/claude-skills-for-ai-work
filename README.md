@@ -1,6 +1,6 @@
 # Claude Skills for everyday AI work
 
-Ten small Claude Skills (plain `SKILL.md` instruction files) for checking, handing off and reporting AI work. Each one is a short set of instructions your AI agent follows. 每個都是一份給 AI 看的短說明檔（SKILL.md）。
+14 small Claude Skills (plain `SKILL.md` instruction files) for checking, handing off and reporting AI work. Each one is a short set of instructions your AI agent follows. 每個都是一份給 AI 看的短說明檔（SKILL.md）。
 
 **Agensi = text version. Gumroad = full version.** Agensi 上架的是文字版本；Gumroad 上架的是完整版本。
 
