@@ -24,7 +24,13 @@ Not tested on every AI tool. 並非所有 AI 工具都測過；主要在 Claude 
 | Shop Page Checkup 商品頁數據健檢 | Read views, traffic sources and sales to tell "not seen" from "seen but not bought" | [link](https://www.agensi.io/r/WEILI1?to=/skills/shop-page-checkup-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/qsrlbn) |
 | Small Steps 工作拆小步 | Split big work into small checkable steps; show the list once, check each step before the next | [link](https://www.agensi.io/r/WEILI1?to=/skills/small-steps-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/kaxnjz) |
 | Order System 點餐系統 | Set up table QR ordering for one shop on your own Cloudflare account, Windows PC and receipt printer | - | [link](https://aquaquest23.gumroad.com/l/rdypgtt) |
-| Welfare Guide 補助導航 | Free (免費). Like a social worker, help people in Taiwan find subsidies and welfare they may apply for; checks amounts on official sites. Also on GitHub: [welfare-guide](https://github.com/water9010-source/welfare-guide) | - | [link](https://aquaquest23.gumroad.com/l/snlrnz) |
+| Welfare Guide 補助導航 | Free (免費). Like a social worker, help people in Taiwan find subsidies and welfare they may apply for; checks amounts on official sites. Also on GitHub: [welfare-guide](https://github.com/water9010-source/welfare-guide) | [Agensi 作者頁（找「補助導航」）](https://www.agensi.io/creators/wei-li-1) | [link](https://aquaquest23.gumroad.com/l/snlrnz) |
+
+### 補助導航：五分鐘試用（免費）
+
+1. 用 Claude Code 並開啟網路查詢。依 [補助導航安裝說明](https://github.com/water9010-source/welfare-guide#安裝) 安裝，重開 Claude Code。
+2. 貼上這個假案例：「請用補助導航。家人 72 歲，住新北市板橋區，中風後洗澡需要人幫忙，目前人在家、沒有緊急危險。想知道長照要從哪裡申請、要準備什麼。」
+3. 預期會看到：先打 1966，附新北市長照申請入口及申請書、同意書，說明後續到府評估。若還缺資料，AI 會先問，不需要輸入身分證字號。結果是申請方向，不保證核准。
 
 ## Gumroad full version contents Gumroad 完整版內容
 
