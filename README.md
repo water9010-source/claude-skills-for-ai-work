@@ -24,7 +24,7 @@ Not tested on every AI tool. 並非所有 AI 工具都測過；主要在 Claude 
 | Shop Page Checkup 商品頁數據健檢 | Read views, traffic sources and sales to tell "not seen" from "seen but not bought" | [link](https://www.agensi.io/r/WEILI1?to=/skills/shop-page-checkup-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/qsrlbn) |
 | Small Steps 工作拆小步 | Split big work into small checkable steps; show the list once, check each step before the next | [link](https://www.agensi.io/r/WEILI1?to=/skills/small-steps-claude-skill&utm_source=github) | [link](https://aquaquest23.gumroad.com/l/kaxnjz) |
 | Order System 點餐系統 | Set up table QR ordering for one shop on your own Cloudflare account, Windows PC and receipt printer | - | [link](https://aquaquest23.gumroad.com/l/rdypgtt) |
-| Welfare Guide 補助導航 | Free (免費). Like a social worker, help people in Taiwan find subsidies and welfare they may apply for; checks amounts on official sites. Also on GitHub: [welfare-guide](https://github.com/water9010-source/welfare-guide) | [Agensi 作者頁（找「補助導航」）](https://www.agensi.io/creators/wei-li-1) | [link](https://aquaquest23.gumroad.com/l/snlrnz) |
+| Welfare Guide 補助導航 | Helps people in Taiwan find possible subsidies and welfare, with official application sources. [GitHub 免費下載與安裝](https://github.com/water9010-source/welfare-guide) | - | - |
 
 ### 補助導航：五分鐘試用（免費）
 
